@@ -1,0 +1,21 @@
+:root {
+	--container-width: 1330px;
+	--container-padding: 15px;
+
+	--font-main: 'Inter', sans-serif;
+	--font-accent: 'Cardo', sans-serif;
+
+	--main: #1B3764;
+	--accent: #FFCA42;
+	--text: #B4C7E7;
+	--text-secondary: #969AA0;
+
+    --laptop-size: 1199px;
+	--tablet-size: 959px;
+	--mobile-size: 599px;
+}
+
+.dark {
+    --page-bg: #252526;
+    --text-color: #fff;
+}
